@@ -1,0 +1,25 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "weng",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenglin1/npm-lab-dumbo-web-010620.git"
+  },
+  "keywords": [
+    "wow"
+  ],
+  "bugs": {
+    "url": "https://github.com/wenglin1/npm-lab-dumbo-web-010620/issues"
+  },
+  "homepage": "https://github.com/wenglin1/npm-lab-dumbo-web-010620#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
